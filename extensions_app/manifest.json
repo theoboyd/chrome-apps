@@ -1,0 +1,10 @@
+{
+  "name": "Extensions",
+  "version": "1",
+  "icons": { "24": "24.png", "128": "128.png" },
+  "app": {
+    "launch": {
+      "web_url": "chrome://extensions/"
+    }
+  }
+}

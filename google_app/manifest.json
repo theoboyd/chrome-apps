@@ -1,0 +1,13 @@
+{
+  "name": "Google",
+  "version": "1",
+  "icons": { "24": "24.png", "128": "128.png" },
+  "app": {
+    "urls": [
+      "http://www.google.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.google.com/"
+    }
+  }
+}
